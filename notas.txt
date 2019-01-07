@@ -1,0 +1,4 @@
+Iniciar este proyecto desde la terminal con
+php -S localhost:8080
+y en navegador
+http://localhost:8080/
